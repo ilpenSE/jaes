@@ -6,4 +6,4 @@ There is an example usage in src/dev/elite/Main.java.
 To import this lib to your project, you just copy `AES.java` and `AESKeyGenerator.java`. Make sure you change the package name.
 
 ## About
-Author: ilpeN, Elite Development (Thanks to [https://chatgpt.com/](ChatGPT))
+Author: ilpeN, Elite Development (Thanks to [ChatGPT](https://chatgpt.com/))
